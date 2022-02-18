@@ -3,7 +3,7 @@ https://github.com/foresight-org/gitcoin-bounties/issues/3
 
 Replacement for eucatastrophe:
 
-enrapturement / enrapture / enrapturing
+**enrapturement**
 
 en·rap·ture  (ĕn-răp′chər)
 tr.v. en·rap·tured, en·rap·tur·ing, en·rap·tures
